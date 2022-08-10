@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #fafafb;
+  color: black;
+}
+.sec-1 {
+  margin-left: 6rem;
+  margin-top: 4rem;
+}
+img {
+  margin-top: -8rem;
+}
+.logos {
+  margin-right: 50rem;
+  margin-top: 1rem;
+}
+p {
+  font-size: 20px;
+  color: grey;
+  margin-bottom: 3rem;
+}
+.heading {
+  font-size: 70px;
+  line-height: 0.9;
+  margin-bottom: 3rem;
+}
+.register {
+  border-color: black;
+  border-radius: 10px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-width: 1px;
+}
+.login{
+    margin-right: 40px;
+}
